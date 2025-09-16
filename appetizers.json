@@ -1,0 +1,84 @@
+{
+  "request": [
+    {
+      "id": 1,
+      "name": "Chicken Dumplings",
+      "description": "Steamed dumplings stuffed with savory chicken and herbs.",
+      "price": 8.99,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg",
+      "calories": 580,
+      "protein": 4,
+      "carbs": 14
+    },
+    {
+      "id": 2,
+      "name": "Chicken Fingers",
+      "description": "Crispy chicken tenders served with honey mustard.",
+      "price": 9.99,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-fingers.jpg",
+      "calories": 675,
+      "protein": 9,
+      "carbs": 5
+    },
+    {
+      "id": 3,
+      "name": "Chicken Wings",
+      "description": "Classic buffalo wings with ranch dip.",
+      "price": 11.49,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-wings.jpg",
+      "calories": 700,
+      "protein": 13,
+      "carbs": 11
+    },
+    {
+      "id": 4,
+      "name": "Nachos",
+      "description": "Corn chips loaded with cheese, jalapeños, and salsa.",
+      "price": 7.49,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/nachos.jpg",
+      "calories": 620,
+      "protein": 8,
+      "carbs": 72
+    },
+    {
+      "id": 5,
+      "name": "Spinach Artichoke Dip",
+      "description": "Creamy spinach & artichoke dip served with pita chips.",
+      "price": 8.49,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/spinach-artichoke-dip.jpg",
+      "calories": 540,
+      "protein": 7,
+      "carbs": 18
+    },
+    {
+      "id": 6,
+      "name": "Mozzarella Sticks",
+      "description": "Golden-fried mozzarella with marinara sauce.",
+      "price": 6.99,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/mozzarella-sticks.jpg",
+      "calories": 610,
+      "protein": 17,
+      "carbs": 49
+    },
+    {
+      "id": 7,
+      "name": "Onion Rings",
+      "description": "Thick-cut onion rings with house sauce.",
+      "price": 5.99,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/onion-rings.jpg",
+      "calories": 510,
+      "protein": 4,
+      "carbs": 60
+    },
+    {
+      "id": 8,
+      "name": "Shrimp Cocktail",
+      "description": "Chilled shrimp with zesty cocktail sauce.",
+      "price": 12.99,
+      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/shrimp-cocktail.jpg",
+      "calories": 300,
+      "protein": 24,
+      "carbs": 6
+    }
+  ]
+}
