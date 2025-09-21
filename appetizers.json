@@ -5,7 +5,7 @@
       "name": "Chicken Dumplings",
       "description": "Steamed dumplings stuffed with savory chicken and herbs.",
       "price": 8.99,
-      "imageURL": "https://seanallen-course-backend.herokuapp.com/images/appetizers/chicken-dumplings.jpg",
+      "imageURL": "https://raw.githubusercontent.com/kingerosh/appetizers-api/refs/heads/main/asian-flank-steak.jpg",
       "calories": 580,
       "protein": 4,
       "carbs": 14
